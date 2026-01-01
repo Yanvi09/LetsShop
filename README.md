@@ -1,18 +1,23 @@
 🛍️ LetShop – MERN E-commerce Platform
 
-A full-stack shopping platform built with the MERN stack (MongoDB, Express, React, Node.js) to provide a modern, responsive, and user-friendly online shopping experience.
+A React-based e-commerce web application focused on clean UI structure, predictable state management, and real-world user flows such as authentication, product browsing, and cart handling.
+
+ 🎯 Focus Areas
+
+- Modular React component architecture for scalability  
+- Clear state flow using React hooks  
+- API-driven UI with proper loading and error states  
+- Separation of concerns between UI, logic, and data handling  
+- Clean, readable code suitable for production environments  
+
 
 🚀 Features
 
-User Authentication – Secure signup/login with JWT
-
-Product Catalog – Browse products with category and search support
-
-Shopping Cart – Add/remove items with live cart updates
-
-Order Management – Place orders and view purchase history
-
-Responsive UI – Clean React frontend with Tailwind CSS for seamless UX
+- User Authentication – Secure signup/login with JWT
+- Product Catalog – Browse products with category and search support
+- Shopping Cart – Add/remove items with live cart updates
+- Order Management – Place orders and view purchase history
+- Responsive UI – Clean React frontend with Tailwind CSS for seamless UX
 
 🛠️ Tech Stack
 
@@ -89,7 +94,6 @@ Open http://localhost:3000
 
 👨‍💻 Author
 
-Anvi Yadav
-
-✨ I am still learning and continuously exploring unique features to apply in e-commerce — from smarter recommendations to interactive shopping flows — to make LetShop not just functional, but truly user-centric
+Anvi Yadav  
+Final-year Computer Science student focused on building clean, maintainable React applications and understanding real-world frontend architecture.
 Linkedln:  www.linkedin.com/in/anvi-yadav    
