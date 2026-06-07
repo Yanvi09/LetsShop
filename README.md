@@ -32,7 +32,6 @@ Auth: JWT Authentication
 Version Control & Hosting: GitHub (future: deployment planned)
 
 ## Maintenance
-
 This repository is maintained for learning and portfolio purposes.
 
 
